@@ -8,6 +8,7 @@ class NiceBankApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
